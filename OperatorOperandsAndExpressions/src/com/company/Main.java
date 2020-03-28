@@ -27,8 +27,5 @@ public class Main {
         result = result % 3;
         System.out.println("4 % 3 = " + result);
 
-
-
-
     }
 }
