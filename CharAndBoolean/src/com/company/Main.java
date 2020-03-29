@@ -6,11 +6,11 @@ public class Main {
 
         char myChar = 'D';
         char myUnicodeChar = '\u0044';
-        System.out.println(myChar);
-        System.out.println(myUnicodeChar);
-
+        System.out.println("My char is : " + myChar);
+        System.out.println("My unicode char is : " + myUnicodeChar);
+//
         char copyrightChar = '\u00A9';
-        System.out.println(charcopyChar);
+        System.out.println(copyrightChar);
 
         boolean myTrueBooleanVal = true;
         boolean myFalseBooleanVal = false;
