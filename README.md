@@ -2,13 +2,8 @@
 
 
 
+
 Skill level: All Levels
-
-Students: 432892
-
-Languages: English
-
-Captions: Yes
 
 Lectures: 400
 
