@@ -1,9 +1,6 @@
-Completing Java Programming Masterclass For Software Developers - Udemy Certification Course 
-
+ Core Java Skills And Java Certification
 
 About this course
-
-Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification
 
 By the numbers
 
