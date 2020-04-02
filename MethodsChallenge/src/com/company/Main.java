@@ -65,7 +65,7 @@ public class Main {
 //
 //      ////// second solution//////////
 
-        
+
         int position = 4;
         if(playerScore >= 1000) {
             position = 1;
