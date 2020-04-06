@@ -30,6 +30,12 @@ public class Main {
         // Calling another overloaded method just requires you to use the
         // right number of parameters.
 
+        double centimeters = calcFeetAndInchesToCentimeters(6, 5);
+        if( centimeters < 0.0) {
+            System.out.println("Invalid params");
+        }
+        calcFeetAndInchesToCentimeters(165);
+
 
     }
 
@@ -59,8 +65,8 @@ public class Main {
 
         System.out.println(inches + " inches is equal to " + feet + " feet and " + remaimingInches + " inches");
 
-        return calcFeetAndInchesToCentimeters(feet, remaimingInches)
+        return calcFeetAndInchesToCentimeters(feet, remaimingInches);
     }
 
-    
+
 }
