@@ -29,7 +29,7 @@ public class Main {
         // use the link I give you to confirm your code is calculating correctly.
         // Calling another overloaded method just requires you to use the
         // right number of parameters.
-        
+
 
     }
 
@@ -47,6 +47,20 @@ public class Main {
         return centimeters;
     }
 
+    public static double calcFeetAndInchesToCentimeters( double inches) {
 
+        if(inches < 0) {
+            System.out.println("Invalid feet or inches parameters");
+            return -1;
+        }
 
+        double feet = (int) inches;
+        double remaimingInches = (int) inches % 12;
+
+        System.out.println(inches + " inches is equal to " + feet + " feet and " + remaimingInches + " inches");
+
+        return calcFeetAndInchesToCentimeters(feet, remaimingInches)
+    }
+
+    
 }
