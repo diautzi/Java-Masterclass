@@ -1,7 +1,7 @@
 public class Main {
 
-    public static void main(String[] args){
-        int megaByte = MegaBytesConverter.printMegaBytesAndKiloBytes();
-        System.out.println(mega);
+    public static  main(String[] args){
+        return int megaByte = MegaBytesConverter.printMegaBytesAndKiloBytes(230);
+        System.out.println(megaByte);
     }
 }
