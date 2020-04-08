@@ -34,7 +34,7 @@ public class Main {
         if( centimeters < 0.0) {
             System.out.println("Invalid params");
         }
-        calcFeetAndInchesToCentimeters(165);
+        calcFeetAndInchesToCentimeters(100);
 
 
     }
