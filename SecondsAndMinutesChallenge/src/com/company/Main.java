@@ -22,6 +22,7 @@ public class Main {
 //          Create a new console project and call it SecondsAndMinutesChallenge
 
         System.out.println(getDurationString(76, 56));
+        System.out.println(getDurationString(0));
 
 
     }
@@ -37,7 +38,7 @@ public class Main {
     }
 
     private static String getDurationString(long seconds) {
-        if(seconds < 0) {
+        if(seconds <= 0) {
             return "Invalid value";
         }
 
@@ -45,5 +46,5 @@ public class Main {
         long remainingSeconds = seconds % 60;
 
         return getDurationString(minutes, remainingSeconds);
-    } static String
+    }
 }
