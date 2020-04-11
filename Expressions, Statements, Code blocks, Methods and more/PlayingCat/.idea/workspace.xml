@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3af4078-112c-4dc3-b3d1-226f3ed83e4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/AreaCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/com/company/AreaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/src/com/company/AreaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/BarkingDog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/out/production/ByteShortIntLong/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/out/production/CharAndBoolean/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/CodeBlocks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/out/production/CodeBlocks/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeBlocks/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/DataPrimitivesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/out/production/DataPrimitivesChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataPrimitivesChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/DecimalComparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/src/DecimalComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/src/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/EqualityPrinter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/out/production/EqualityPrinter/META-INF/EqualityPrinter.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/out/production/EqualityPrinter/com/company/EqualityPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/out/production/EqualityPrinter/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/src/com/company/EqualityPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/out/production/FloatAndDouble/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/IfAndThenStatement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/out/production/IfAndThenStatement/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfAndThenStatement/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/LeapYearCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/src/LeapYearCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/MegaBytesConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/out/production/MethodOverloading/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/OperatorOperandsAndExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/out/production/OperatorOperandsAndExpressions/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperatorOperandsAndExpressions/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlayingCat/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlayingCat/com/company/PlayingCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PlayingCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/StringDataType.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/out/production/StringDataType/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringDataType/src/com/company/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aMAeMETiTJv1W4VZzGOuGdLZJz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="PlayingCat" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3af4078-112c-4dc3-b3d1-226f3ed83e4f" name="Default Changelist" comment="" />
+      <created>1586535182668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586535182668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="667" height="200" key="GridCell.Tab.0.bottom" timestamp="1586563553207">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="667" height="200" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1586563553207" />
+    <state width="667" height="200" key="GridCell.Tab.0.center" timestamp="1586563553206">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="667" height="200" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1586563553206" />
+    <state width="667" height="200" key="GridCell.Tab.0.left" timestamp="1586563553206">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="667" height="200" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1586563553206" />
+    <state width="667" height="200" key="GridCell.Tab.0.right" timestamp="1586563553206">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="667" height="200" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1586563553206" />
+  </component>
+</project>
