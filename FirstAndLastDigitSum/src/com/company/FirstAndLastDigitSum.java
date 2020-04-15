@@ -9,7 +9,11 @@ public class FirstAndLastDigitSum {
 
     public static int sumFirstAndLAstDigit( int number) {
 
+
+        // find last digit
         int lastDigit = number % 10;
+
+        //initialize sum and first digit variables
         int sum = 0;
         int firstDigit = 0;
 
