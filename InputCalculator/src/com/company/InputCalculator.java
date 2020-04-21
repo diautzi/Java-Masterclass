@@ -28,7 +28,8 @@ public class InputCalculator {
                 int input = scanner.nextInt();
                 count++;
                 sum += input;
-                average =  Math.round(sum /  count);
+                average =  Math.round((double) sum / (double) count);
+
             }
             else {
                 break;
