@@ -9,4 +9,21 @@ public class Car {
     private String colour;
 
 
+    ////// setter method/////
+    public void setModel( String model) {
+        String validModel = model.toLowerCase();
+        if ( validModel.equals("carrera") || validModel.equals("accord")) {
+            this.model = model;
+        }else {
+            this.model = "Unknown";
+        }
+
+    }
+
+
+    //////getter method////////
+    public String getModel() {
+        return this.model;
+    }
+
 }
