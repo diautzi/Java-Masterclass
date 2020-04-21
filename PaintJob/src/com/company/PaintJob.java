@@ -34,4 +34,18 @@ public class PaintJob {
         return -1;
     }
 
+    //3.
+    // in some cases Bob does not know width & height of walls
+    // write a 3rd overloaded metho with 2 params of type double area and areaPerBucker
+    //method needs to return a value of type int that represents number of buckets needed for paint job
+    //if any of  params <= 0 => return -1;
+
+    public static int getBucketCount( double area, double areaPerBucket) {
+
+        if( area > 0 && areaPerBucket > 0 ) {
+            return (int) Math.ceil( area/areaPerBucket );
+        }
+        return -1;
+    }
+
 }
