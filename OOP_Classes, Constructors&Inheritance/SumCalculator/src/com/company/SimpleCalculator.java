@@ -46,7 +46,12 @@ public class SimpleCalculator {
     }
 
     public double getDivisionResult() {
-        return this.firstNumber / this.secondNumber;
+        if ( this.secondNumber == 0 ) {
+            return 0;
+        }
+        else {
+            return this.firstNumber / this.secondNumber;
+        }
     }
 
 }
