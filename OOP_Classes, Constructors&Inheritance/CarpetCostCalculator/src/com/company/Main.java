@@ -9,9 +9,15 @@ public class Main {
         Floor floor = new Floor(2.75, 4.0);
         Calculator calculator = new Calculator(floor, carpet);
         System.out.println("total = " + calculator.getTotalCost());
+
         carpet = new Carpet(1.5);
         floor =  new Floor(5.4, 4.5);
         calculator = new Calculator(floor, carpet);
-        System.out.println("new total = " + calculator.getTotalCost());
+        System.out.println("second total = " + calculator.getTotalCost());
+
+        carpet = new Carpet(-1.5);
+        floor =  new Floor(5.4, 4.5);
+        calculator = new Calculator(floor, carpet);
+        System.out.println("Cost negative => third total = " + calculator.getTotalCost());
     }
 }
