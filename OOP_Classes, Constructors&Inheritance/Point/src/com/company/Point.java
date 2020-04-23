@@ -22,7 +22,7 @@ public class Point {
     public Point() {
         this(0, 0);
     }
-    
+
     ////2nd constructor with params ////
     public Point(int x, int y) {
         this.x = x;
