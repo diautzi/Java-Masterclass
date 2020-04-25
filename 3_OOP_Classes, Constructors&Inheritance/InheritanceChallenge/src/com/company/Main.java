@@ -10,6 +10,11 @@ public class Main {
         // You will want to decide where to put the appropriate state and behaviours (fields and methods).
         // As mentioned above, changing gears, increasing/decreasing speed should be included.
         // For you specific type of vehicle you will want to add something specific for that type of car.
-    }
+
+        Honda car1 = new Honda(12);
+        car1.changeGear(3);
+        car1.steer(12);
+        car1.getCurrentDirection();
+        }
 
 }
