@@ -10,7 +10,7 @@ public class Honda extends Car {
 
 
     //// create accelarate method that calls on the the changeGear() method from the Car superClass
-    
+
     public void accelerate ( int rate){
 
         int newVelocity = getCurrentVelocity() + rate;
