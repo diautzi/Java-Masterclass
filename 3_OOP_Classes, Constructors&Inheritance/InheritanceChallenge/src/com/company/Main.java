@@ -19,7 +19,7 @@ public class Main {
         car1.accelerate(30);
         car1.accelerate(20);
         car1.accelerate(-42);
-        
+
         }
 
 }
