@@ -12,9 +12,14 @@ public class Main {
         // For you specific type of vehicle you will want to add something specific for that type of car.
 
         Honda car1 = new Honda(12);
-        car1.changeGear(3);
-        car1.steer(12);
-        car1.getCurrentDirection();
+//        car1.changeGear(3);
+//        car1.steer(12);
+//        car1.getCurrentDirection();
+        car1.steer(45);
+        car1.accelerate(30);
+        car1.accelerate(20);
+        car1.accelerate(-42);
+        
         }
 
 }
