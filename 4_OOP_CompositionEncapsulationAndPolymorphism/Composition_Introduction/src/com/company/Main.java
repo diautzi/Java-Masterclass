@@ -13,8 +13,9 @@ public class Main {
         Monitor monitor = new Monitor( "Macbook", "Apple", 13, new Resolution(2000, 3000));
         Motherboard motherboard = new Motherboard( "12-00", "Apple", 14, 10, "v2020");
         MacBookPro macBookPro = new MacBookPro( theCase, monitor, motherboard );
-        macBookPro.getMonitor().drawPixelAt( 1500, 1200, "red" );
-        macBookPro.getMotherboard().loadProgram( "Catalina 10.15.4" );
-
+//               macBookPro.getMonitor().drawPixelAt( 1500, 1200, "red" );
+//        macBookPro.getMotherboard().loadProgram( "Catalina 10.15.4" );
+//        macBookPro.getTheCase.pressPowerButton();
+        macBookPro.powerUp();
     }
 }

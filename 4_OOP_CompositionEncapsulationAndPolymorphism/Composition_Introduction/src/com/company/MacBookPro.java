@@ -11,15 +11,15 @@ public class MacBookPro {
         this.motherboard = motherboard;
     }
 
-    public Case getTheCase() {
-        return theCase;
+
+    public  void powerUp() {
+        theCase.pressPowerButton();
+        drawLoop();
     }
 
-    public Monitor getMonitor() {
-        return monitor;
+    private void drawLoop() {
+        ////fancy graphics//
+       monitor.drawPixelAt( 1200, 50, "yellow" );
     }
 
-    public Motherboard getMotherboard() {
-        return motherboard;
-    }
 }
