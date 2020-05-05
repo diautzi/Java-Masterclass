@@ -24,6 +24,26 @@ public class Bed {
         return style;
     }
 
+    public void setStyle(String style) {
+        this.style = style;
+    }
+
+    public void setPillow(int pillow) {
+        this.pillow = pillow;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    public void setSheets(int sheets) {
+        this.sheets = sheets;
+    }
+
+    public void setQuilt(int quilt) {
+        this.quilt = quilt;
+    }
+
     public int getPillow() {
         return pillow;
     }
