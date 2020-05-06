@@ -16,6 +16,8 @@ public class Printer {
 
         if ( tonerLevel > 0 && tonerLevel <= 100 ) {
             this.tonerLevel = tonerLevel;
+        }else {
+           this.tonerLevel = -1;
         }
 
         this.numberOfPrintedPages = numberOfPrintedPages;
@@ -26,6 +28,7 @@ public class Printer {
         if (tonerAmount > 0 && tonerAmount <= 100) {
             if (this.tonerLevel + tonerAmount > 100) {
                 System.out.println("Toner full");
+                return -1;
             }
             this.tonerLevel += tonerAmount;
             return this.tonerLevel;
